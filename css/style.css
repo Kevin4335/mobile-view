@@ -134,8 +134,12 @@ nav li > a{
 }
 
 /*for desktop version*/
-@media screen and (min-width: 776px){
-    
+@media viewport, screen and (min-width: 776px){
+    /*
+    nav{
+        background-color: black;
+    }
+    */
 }
 
 
